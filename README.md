@@ -10,5 +10,5 @@
 # Useful links
 * [https://twitter.com/ScalaBridge](https://twitter.com/ScalaBridge)
 * [https://tinyletter.com/scalabridge](https://tinyletter.com/scalabridge)
-* [http://scalabridge.org](http://scalabridge.org)
+* [http://www.scalabridge.org/](http://www.scalabridge.org/)
 * [https://groups.google.com/forum/#!forum/scalabridge](https://groups.google.com/forum/#!forum/scalabridge)

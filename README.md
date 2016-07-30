@@ -1,4 +1,14 @@
-# How to help
+# What is ScalaBridge?
+
+ScalaBridge is an organization that is building a more inclusive #Scala community with free, introductory programming workshops for women and underrepresented groups. 
+
+Workshops will involve a Friday evening "install-fest" and an all-day Saturday workshop.
+
+# Who can attend?
+
+The target audience is women and underrepresented groups in technology (such as black, latinx, LGBTQ). We trust the judgement of the prospective attendee as to whether they identify with an underrepresented group. There is no prerequisite knowledge required.
+
+# I'm an experienced Scala developer, how can I help?
 
 * Follow along for updates [twitter](https://twitter.com/ScalaBridge) or [newsletter](https://tinyletter.com/scalabridge)
 * For more collaboration, join the [google group](https://groups.google.com/forum/#!forum/scalabridge)

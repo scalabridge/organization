@@ -22,3 +22,4 @@ The target audience is women and underrepresented groups in technology (such as 
 * [https://tinyletter.com/scalabridge](https://tinyletter.com/scalabridge)
 * [http://www.scalabridge.org/](http://www.scalabridge.org/)
 * [https://groups.google.com/forum/#!forum/scalabridge](https://groups.google.com/forum/#!forum/scalabridge)
+* [Code of Conduct](http://bridgefoundry.org/code-of-conduct/)

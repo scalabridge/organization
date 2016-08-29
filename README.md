@@ -1,12 +1,12 @@
 # What is ScalaBridge?
 
-ScalaBridge is an organization that is building a more inclusive Scala community with free, introductory programming workshops for women and underrepresented groups. 
+ScalaBridge is an organization that is building a more inclusive Scala community with free, introductory programming workshops for women.
 
 Workshops will involve a Friday evening "install-fest" and an all-day Saturday workshop.
 
 # Who can attend?
 
-The target audience is women and underrepresented groups in technology (such as black, latinx, LGBTQ). We trust the judgement of the prospective attendee as to whether they identify with an underrepresented group. There is no prerequisite knowledge required.
+The workshop is intended to reach out to women who are interested in learning Scala. ScalaBridge is emphatically queer and trans friendly.
 
 # I'm a Scala developer, how can I help?
 

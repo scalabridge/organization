@@ -11,6 +11,7 @@ The workshop is intended to reach out to women who are interested in learning Sc
 # I'm a Scala developer, how can I help?
 
 * Follow along for updates [twitter](https://twitter.com/ScalaBridge)
+* For chat join our [Gitter channel](https://gitter.im/scalabridge/Lobby)
 * Join the [google group](https://groups.google.com/forum/#!forum/scalabridge)
 * Introductions to women & other underrepresented Scala developers
 * Contribute to the [curriculum](https://github.com/scalabridge/curriculum/issues)
@@ -22,4 +23,6 @@ The workshop is intended to reach out to women who are interested in learning Sc
 * [https://tinyletter.com/scalabridge](https://tinyletter.com/scalabridge)
 * [http://www.scalabridge.org/](http://www.scalabridge.org/)
 * [https://groups.google.com/forum/#!forum/scalabridge](https://groups.google.com/forum/#!forum/scalabridge)
+* [https://gitter.im/scalabridge/Lobby](https://gitter.im/scalabridge/Lobby)
+* [https://gitter.im/scalabridge/curriculum](https://gitter.im/scalabridge/curriculum)
 * [Code of Conduct](http://bridgefoundry.org/code-of-conduct/)

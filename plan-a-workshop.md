@@ -28,13 +28,11 @@ Here are several things that are helpful:
 
 #### Time commitment
 
-The time commitment varies wildly based on where you're organizing and the number of workshops that have already happened in your area. Since there are workshops every month in San Francisco, the meta-organizing team there has a stable of companies that are happy to host. If you're forging new, exciting ground, finding a venue, sponsors, students, and volunteers will take longer. The organizing cookbook [has suggestions](https://github.com/railsbridge/docs/wiki/Finding-space%2C-sponsors%2C-volunteers%2C-and-students) for where to look for those things.
+The time commitment varies wildly based on where you're organizing and the number of workshops that have already happened in your area. If you're forging new, exciting ground, finding a venue, sponsors, students, and volunteers will take longer. The organizing cookbook [has suggestions](https://github.com/railsbridge/docs/wiki/Finding-space%2C-sponsors%2C-volunteers%2C-and-students) for where to look for those things.
 
 The amount of time you'll need to budget will also depend on how you and your co-organizer divide the responsibilities. Everyone organizing should plan on devoting their Friday night and most of Saturday to the workshop, and at least a few hours a week during the month before the workshop to visiting the space, ordering food, and communicating with students and volunteers.
 
 #### Mentorship & support available
-
-Although it is a lot of little details to deal with, if it's your first time organizing we'll hook you up with a mentor to answer questions and help guide you. That can be remote mentoring, if an experienced local organizer/mentor isn't available.
 
 If you are interested in organizing a workshop, or even just vaguely curious, contact [scalabridge@gmail.com](mailto:scalabridge@gmail.com) and our volunteerswill be very happy to talk to you about it. You can also create an issue on the [ScalaBridge Organizing GitHub repo](https://github.com/scalabridge/organization/issues/new) and we will gladly help you out!
 

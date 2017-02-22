@@ -1,4 +1,4 @@
-nt to organize a workshop?
+# Want to organize a workshop?
 
 ## Neat!
 

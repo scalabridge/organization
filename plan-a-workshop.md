@@ -59,7 +59,7 @@ Here is a list of useful resources, you can clone and edit the Google Docs for y
 *  [Welcome Deck](https://docs.google.com/presentation/d/1VNwhTWBLHefoAAsCtXZdl9Hl_v7VtEALxyshli5il_o/edit?usp=sharing)
 *  [Various signage](https://drive.google.com/drive/folders/0B72QyVq_2E7_a1YxS0FFazYteGM)
 
-The curriculum uses [Creative Scala](http://underscore.io/training/courses/creative-scala/), which was developed by the folks at Underscore. As of February 2017, it is using V1 of the curriculum but we have intentions to update it to V2 soon.
+The curriculum uses [Creative Scala](http://underscore.io/training/courses/creative-scala/), which was developed by the folks at Underscore. As of July 2017, it is using V2 of the curriculum.
 
 #### Acknowledgements
 

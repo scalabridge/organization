@@ -4,7 +4,7 @@
 
 #### The Workshop Cookbook
 
-There is a bunch of information in the [Workshop Cookbook](https://github.com/railsbridge/docs/wiki/Cookbook), which lives in the RailsBridge (and is equally useful for ScalaBridge!) GitHub wiki.
+There is a bunch of information in the [Workshop Cookbook](https://github.com/bridgefoundry/WorkshopCookbook/wiki/Cookbook), which lives in the RailsBridge (and is equally useful for ScalaBridge!) GitHub wiki.
 
 Read it, use it, and update it! (You just have to be logged into GitHub to make updates.)
 
